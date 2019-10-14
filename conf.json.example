@@ -1,0 +1,6 @@
+{
+    "username": "user1",
+    "password": "BlahbLahblAh123",
+    "url": "https://my-wp-site.com",
+    "redir": "https://my-wp-site.com/wp-admin/"
+}

@@ -3,7 +3,7 @@
 Basic python script to login to wordpress & GET a page.
 
 ## Usage
-- Create `conf.json` in this format:
+- Create `conf.json` in this format: (See `conf.json.example`)
 - ```json
   {
       "username": "user1",
@@ -15,3 +15,6 @@ Basic python script to login to wordpress & GET a page.
 - Run `main.py`
   - `python3 main.py`
 - Done
+
+## License
+MIT &copy; 2019 Sebastian Safari

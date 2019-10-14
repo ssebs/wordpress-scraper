@@ -9,7 +9,10 @@ Basic python script to login to wordpress & GET a page.
       "username": "user1",
       "password": "BlahbLahblAh123",
       "url": "https://my-wp-site.com",
-      "redir": "https://my-wp-site.com/wp-admin/"
+      "redirs": [
+      "https://my-wp-site.com/wp-admin/",
+      "https://my-wp-site.com/wp-admin/",
+      ]
   }
   ```
 - Run `main.py`
